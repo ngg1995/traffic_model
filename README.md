@@ -15,3 +15,12 @@ This repo contains 3 files:
 *  simulation.m ->> file that needs to be run to see simulation of traffic flow. will ask for values for max speed, road length, slowing probability, density of cars and simulation time. It will make an animation in which each dot represents a car
 
 This code was originally developed as part of a scientific computing module during my physics degree at the University of Nottingham. Contact nickgray@liv.ac.uk for more information
+
+
+Reference full report (doc file):
+
+title = The Effect of Variable Speed Limits on Traffic Flow,
+author = Gray, Nick,
+school = The University of Nottingham,
+year = 2016,
+url = https://github.com/ngg1995/traffic_model/
