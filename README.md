@@ -12,8 +12,6 @@ These four steps are carried out in order, for all cars on the road in parallel,
 This repo contains 3 files:
 * carRule.m ->> function that contains the rules required to simulate the model
 * shuffle.m ->> function that makes the cars loop from the start to the end
-*  simulation.m ->> file that needs to be run to see simulation of traffic flow. will ask for values for max speed, road length, slowing probability, density of cars and simulation time
-
-each dot in the animation represents a car
+*  simulation.m ->> file that needs to be run to see simulation of traffic flow. will ask for values for max speed, road length, slowing probability, density of cars and simulation time. It will make an animation in which each dot represents a car
 
 This code was originally developed as part of a scientific computing module during my physics degree at the University of Nottingham. Contact nickgray@liv.ac.uk for more information
